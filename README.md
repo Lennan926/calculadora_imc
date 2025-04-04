@@ -85,4 +85,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ✍️ Autor
 
-Desenvolvido por **[Seu Nome]** — contribuições são bem-vindas!
+Desenvolvido por **Leonardo Nunes** — projeto em curso Fullstack B7Web
