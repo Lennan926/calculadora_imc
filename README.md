@@ -77,12 +77,6 @@ Cria o build para produção na pasta `build`.Veja mais em: [Deployment](https:/
 
 ---
 
-## 🧾 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## ✍️ Autor
 
 Desenvolvido por **Leonardo Nunes** — projeto em curso Fullstack B7Web
